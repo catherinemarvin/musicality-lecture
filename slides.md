@@ -61,7 +61,7 @@
 
 # Liberation of the follow
 
-- [Michael and Frida](../videos/michael and friday.mp4)
+- [Michael and Frida](../videos/michael and frida.mp4)
 - [Mike and Nina](../videos/mike and nina.mp4)
 
 ---
