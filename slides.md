@@ -11,8 +11,6 @@
 = data-y="1000"
 
 # Elements of swing
-- http://auralmajority.blogspot.com/2010/12/do-you-want-to-swing-virginia.html
-- Swing rhythm accentuates backbeats of 2,4,6,8
 
 ---
 = data-z="1000"
@@ -23,7 +21,7 @@
 
 ---
 
-# Jazz != swing
+# Jazz is not always swing
 - [Dave Brubeck - Take Five](../music/takefive.mp3)
 - [Charles Mingus - Mingus Fingers](../music/mingusfingers.mp3)
 
@@ -48,9 +46,6 @@
 
 # Musicality and dancing
 
-- Micro vs macro
-- http://swungover.wordpress.com/2010/03/30/the-old-timer-part-4-the-only-count-i-know-is-basie/
-
 ---
 
 # Micromusicality
@@ -64,7 +59,6 @@
 
 # Liberation of the follow
 
-- http://therantingsofalindyhopper.wordpress.com/2009/10/06/musicality-is-not-monotony/
 - Intro: http://www.youtube.com/watch?v=QEd3dUN414o (~10s, follow: drums, leader: horns)
 - http://www.youtube.com/watch?v=K4HGSLR78KM (Frida throws her own things in at :39, 1:01, 1:22)
 
@@ -73,7 +67,6 @@
 # Macromusicality
 
 - How does the music make you want to dance?
-- http://blackbeltlindy.john-refactored.com/2011/03/musicality-macro-and-micro.html
 - "Savoy Blues"
 - Staccato and upbeat opening
 - Two-beat draws: drawn out, or legs swept
@@ -81,6 +74,10 @@
 - Solo clarinet with long notes and trill
 - Trumpets with higher energy solo.
 - Key point: different energies
+
+---
+
+# Getting Better
 
 ---
 
@@ -92,3 +89,4 @@
 - [My Jazz Can Beat Up Your Jazz](http://myjazzcanbeatupyourjazz.blogspot.com/)
 - ["Musicality is not Monotony"](http://therantingsofalindyhopper.wordpress.com/2009/10/06/musicality-is-not-monotony/)
 - ["The Only Count I Know is Basie"](http://swungover.wordpress.com/2010/03/30/the-old-timer-part-4-the-only-count-i-know-is-basie/)
+- ["Musicality: Macro and Micro"](http://blackbeltlindy.john-refactored.com/2011/03/musicality-macro-and-micro.html)
