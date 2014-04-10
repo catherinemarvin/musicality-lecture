@@ -50,30 +50,25 @@
 
 # Micromusicality
 
-- Listening to different parts of the music
+## Listening to different parts of the music
 
-- Dax and Sarah http://www.youtube.com/watch?v=zVkMOUPB1xk (they listen to the horns)
-- Max and Annie http://www.youtube.com/watch?v=TOA-Ynghc_A (whereas max and annie accent the drums)
+- [Dax and Sarah](../videos/dax and sarah micro.mp4)
+- [Max and Annie](../videos/max and annie macro 1.mp4)
+- [Dax and Sarah](../videos/dax and sara micro 2.mp4)
+- [Max and Annie](../videos/max and annie macro 2.mp4)
 
 ---
 
 # Liberation of the follow
 
-- Intro: http://www.youtube.com/watch?v=QEd3dUN414o (~10s, follow: drums, leader: horns)
-- http://www.youtube.com/watch?v=K4HGSLR78KM (Frida throws her own things in at :39, 1:01, 1:22)
+- [Michael and Frida](../videos/michael and friday.mp4)
+- [Mike and Nina](../videos/mike and nina.mp4)
 
 ---
 
 # Macromusicality
 
-- How does the music make you want to dance?
-- "Savoy Blues"
-- Staccato and upbeat opening
-- Two-beat draws: drawn out, or legs swept
-- Long trombone with clarinet counterpoint
-- Solo clarinet with long notes and trill
-- Trumpets with higher energy solo.
-- Key point: different energies
+- "The Only Count I Know is Basie"
 
 ---
 
