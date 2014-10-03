@@ -20,16 +20,17 @@
 - [Slim & Slam - Jump Session](../music/jumpsession.mp3)
 
 ---
+= data-x="1000"
 
 # Jazz is not always swing
 - [Dave Brubeck - Take Five](../music/takefive.mp3)
 - [Charles Mingus - Mingus Fingers](../music/mingusfingers.mp3)
 
 ---
-= data-x = "1000"
+= data-y = "1000"
 ## Accent on the back beat
 
-- [Ella Fitzgerald - Sugarfoot Rag](../music/sugarfootrag.mp3)
+- [Count Basie - Solid as a Rock](../music/solidasarock.mp3)
 
 ## Syncopation
 
@@ -37,44 +38,57 @@
 
 ## Call and Response
 
-- [Cab Calloway - Foo a Little Bally Hoo](../music/fooalittleballyhoo.mp3)
+- [Cab Calloway - Everybody Eats When They Come to My House](../music/everybodyeats.mp3)
 
 ## The Train
 - [The Cats and the Fiddle - Gang Busters](../music/gangbusters.mp3)
 
 ---
+= data-z = "1000"
 
 # Musicality and dancing
 
 ---
+
+# You, Your Partner, and the Music
+
+- Why the music and the dance should match
+
+---
+= data-x = "1000"
 
 # Micromusicality
 
 ## Listening to different parts of the music
 
 - [Dax and Sarah](../videos/dax and sarah micro.mp4)
-- [Max and Annie](../videos/max and annie macro 1.mp4)
+- [Max and Annie](../videos/max and annie micro 1.mp4)
 - [Dax and Sarah](../videos/dax and sara micro 2.mp4)
-- [Max and Annie](../videos/max and annie macro 2.mp4)
+- [Max and Annie](../videos/max and annie micro 2.mp4)
 
 ---
+= data-y = "1000"
 
 # Liberation of the follow
 
+## Jack and Jills
 - [Michael and Frida](../videos/michael and frida.mp4)
-- [Mike and Nina](../videos/mike and nina.mp4)
+- [Dax and Maeva](../videos/dax and maeva.mp4)
 
 ---
+= data-z = "1000"
 
 # Macromusicality
 
 - "The Only Count I Know is Basie"
 
 ---
+= data-x = "1000"
 
 # Getting Better
 
 ---
+= data-y = "1000"
 
 # THE END
 
