@@ -81,6 +81,7 @@
 # Macromusicality
 
 - "The Only Count I Know is Basie"
+- [Phrasing](../music/nopotatoes.m4a), a.k.a. structure
 
 ---
 = data-x = "1000"
