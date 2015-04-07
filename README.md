@@ -1,40 +1,45 @@
 Lesson plan
 ==========
 
-1) Play "Good Queen Bess" 2x
+0) Don't freak out when you mess up
+
+1) Play Gordon Webster - "Exactly Like You" 1x: dance
 
 Macro
 ------
 
 2) INTRODUCING: AABA
 
-3) Play the "AABA" intro of "Good Queen Bess"
+3) Play the "AABA": listen for it
 
-4) Teach routine
+4) INTRODUCING: AAAB
+
+5) Play and listen for it
+
+6) Teach routine
 - 3x swingout
 - 1x inside turn
 - 3x swingout
 - 1x lindy circle
 - 3x charleston
-- 1x sendout
+- 1x side by side 8 count lindy hop footwork thing
 - 3x swingout
 - 1x outside turn
 
-5) Do routine
+7) Do routine
 
 Micro
 ------
 
-6) Teach some 7-8-1-2 variations
+8) Teach some 7-8-1-2 variations
 
-7) 7-8-1-2 freedom
+9) 7-8-1-2 freedom
 
-8) Some charleston variations
+10) Some charleston variations
 
-9) Note for leads: give your partner some space
+11) Note for leads: give your partner some space
 
-10) Note for followers: make sure to keep paying attention to your lead
+12) Note for followers: make sure to keep paying attention to your lead
 
-11) Things that happen are bound to happen again
+13) Things that happen are bound to happen again
 
-12) Don't freak out when you mess up
