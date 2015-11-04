@@ -72,8 +72,8 @@
 # Liberation of the follow
 
 ## Jack and Jills
-- [Michael and Frida](../videos/michael and frida.mp4)
-- [Dax and Maeva](../videos/dax and maeva.mp4)
+- [Kevin and Sarah](../videos/kevin and sarah.mp4)
+- [Skye and Jo](../videos/skye and jo.mp4)
 
 ---
 = data-z = "1000"
@@ -87,6 +87,11 @@
 = data-x = "1000"
 
 # Getting Better
+
+- Listen to music
+- Dance a lot
+- Don’t do things just to look cool
+- Remember the triangle
 
 ---
 = data-y = "1000"
